@@ -1,0 +1,22 @@
+h1{
+    text-transform: capitalize;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman';
+}
+#outer
+{height: 100px;
+    width: 90px;
+    font-size: 25px;
+    background-color: cornflowerblue;
+}
+#inner{
+    font-size: 10px;
+    height: 60px;
+    width: 50px;
+    background-color: rgb(194, 194, 211);
+    border: 3px;
+    border-color: blueviolet;
+border-style: dotted;
+}
